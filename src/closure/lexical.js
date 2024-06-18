@@ -1,4 +1,4 @@
-// revision del ambito "lexical" que es el orden de como se puede ir teniendo acceso a la diferentes vars creadas en diferentes ambitos
+// revision del ambito "lexical" que es el orden de como se puede ir teniendo acceso a las diferentes vars creadas en diferentes ambitos
 
 const myGlobal = 0;
 
